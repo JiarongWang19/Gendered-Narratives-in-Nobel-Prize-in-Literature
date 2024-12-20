@@ -1,0 +1,103 @@
+Word,Frequency,Category,Gender
+life,6,Most Frequent,Female
+writings,3,Most Frequent,Female
+poetry,3,Most Frequent,Female
+poetic,3,Most Frequent,Female
+human,3,Most Frequent,Female
+poetic,3,Green,Female
+visionary,2,Green,Female
+powerful,2,Green,Female
+courage,2,Green,Female
+zeal,1,Green,Female
+vivid,1,Green,Female
+spiritual,1,Green,Female
+rich,1,Green,Female
+passion,1,Green,Female
+outstanding,1,Green,Female
+masterpieces,1,Green,Female
+master,1,Green,Female
+magnificent,1,Green,Female
+lyrical,1,Green,Female
+great,1,Green,Female
+extraordinary,1,Green,Female
+destiny,1,Green,Female
+clarity,1,Green,Female
+benefit,1,Green,Female
+beauty,1,Green,Female
+aspirations,1,Green,Female
+suffering,1,Red,Female
+subjected,1,Red,Female
+problems,1,Red,Female
+ironic,1,Red,Female
+intense,1,Red,Female
+austere,1,Red,Female
+absurdity,1,Red,Female
+human,16,Most Frequent,Male
+poetry,15,Most Frequent,Male
+art,15,Most Frequent,Male
+poetic,14,Most Frequent,Male
+life,13,Most Frequent,Male
+poetic,13,Green,Male
+great,11,Green,Male
+works,7,Green,Male
+work,7,Green,Male
+rich,6,Green,Male
+lyrical,6,Green,Male
+realistic,4,Green,Male
+freedom,4,Green,Male
+clear,4,Green,Male
+brilliant,4,Green,Male
+skill,3,Green,Male
+significant,3,Green,Male
+outstanding,3,Green,Male
+modern,3,Green,Male
+mastery,3,Green,Male
+inspiration,3,Green,Male
+fresh,3,Green,Male
+distinguished,3,Green,Male
+creative,3,Green,Male
+vivid,2,Green,Male
+sensitive,2,Green,Male
+profoundly,2,Green,Male
+originality,2,Green,Male
+monumental,2,Green,Male
+love,2,Green,Male
+keen,2,Green,Male
+ingenuity,2,Green,Male
+important,2,Green,Male
+impassioned,2,Green,Male
+humour,2,Green,Male
+ethical,2,Green,Male
+contribution,2,Green,Male
+consummate,2,Green,Male
+compassion,2,Green,Male
+beauty,2,Green,Male
+achievement,2,Green,Male
+uncompromising,2,Red,Male
+problems,2,Red,Male
+myth,2,Red,Male
+conflicts,2,Red,Male
+tragic,1,Red,Male
+tragedy,1,Red,Male
+struggle,1,Red,Male
+strict,1,Red,Male
+severe,1,Red,Male
+revolt,1,Red,Male
+resistance,1,Red,Male
+predicament,1,Red,Male
+prattle,1,Red,Male
+outsider,1,Red,Male
+mysterious,1,Red,Male
+irony,1,Red,Male
+illusory,1,Red,Male
+illusions,1,Red,Male
+fragile,1,Red,Male
+disconcerting,1,Red,Male
+destitution,1,Red,Male
+critical,1,Red,Male
+conflict,1,Red,Male
+clash,1,Red,Male
+challenging,1,Red,Male
+bitter,1,Red,Male
+barbaric,1,Red,Male
+ambiguous,1,Red,Male
